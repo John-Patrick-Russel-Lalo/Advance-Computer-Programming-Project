@@ -20,4 +20,4 @@ The Inventory Management System is a web application designed to help users mana
 
 1. Clone the repository:
    ```bash
-   git clone
+   git clone https://github.com/John-Patrick-Russel-Lalo/Advance-Computer-Programming-Project.git
